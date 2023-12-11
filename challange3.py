@@ -15,3 +15,5 @@ def solve(s):
 # Examples:
 print(solve("zodiacs"))   
 print(solve("strength"))  
+
+# run the test
